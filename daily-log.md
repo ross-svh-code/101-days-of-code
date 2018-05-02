@@ -5,6 +5,7 @@
 **Today's Progress**: 
 * Reread through the 2nd chapter of YDKJS: Up & Going again. Spent a bit more time on closure `this` and prototypes. 
 * Working slowly through YDKJS: Scope and Closure. 
+** Chapter One notes: Already understood pretty well how scope worked, but learned about the RHS and LHS look-ups in scope and learned about how the compilation of the code works. 
 
 **Thoughts**: Trying to slow down and focus more on each subject. Got introduced to the `call` function which allows you to use a method from a different object.
 
