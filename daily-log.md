@@ -1,5 +1,15 @@
 # 101 Days Of Code - Log
 
+### Day 2: May 2, 2018
+
+**Today's Progress**: 
+* Reread through the 2nd chapter of YDKJS: Up & Going again. Spent a bit more time on closure `this` and prototypes. 
+* Working slowly through YDKJS: Scope and Closure. 
+
+**Thoughts**: Trying to slow down and focus more on each subject. Got introduced to the `call` function which allows you to use a method from a different object.
+
+**Link(s) to work**: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 ### Day 1: May 1, 2018
 
 **Today's Progress**: 
@@ -19,7 +29,7 @@ objects and arrays.
 
 **Link(s) to work:** [Watch and Code - Practical JavaScript](https://watchandcode.com/p/practical-javascript), [Project Euler](https://projecteuler.net/archives)
 
-### Day 2: May 2, 2018
+### Day X: May 2, 2018
 
 **Today's Progress**: 
 
