@@ -17,7 +17,7 @@ array.reduce(function(accumulator, currentValue) {
 * `in` operator - returns true if the specified property is in the object (or index is in the array)
  ```js
  var myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
- console.log('make" in myCar);
+ console.log('make' in myCar);
  // expected output: true
  ```
 
