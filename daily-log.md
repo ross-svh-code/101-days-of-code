@@ -8,14 +8,18 @@
 
 **Learned** 
 * `array.reduce` - reduce(callback(accumulator, currentValue) {  }, initialValue); *you don't need an initialValue*
-`var array = [0, 1, 2, 3, 4]
- array.reduce(function(accumulator, currentValue) {
-   return accumulator + currentValue;
- });`
+```js
+var array = [0, 1, 2, 3, 4]
+array.reduce(function(accumulator, currentValue) {
+  return accumulator + currentValue;
+});
+```
 * `in` operator - returns true if the specified property is in the object (or index is in the array)
- `var myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
-  console.log('make" in myCar);
-  // expected output: true`
+ ```js
+ var myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
+ console.log('make" in myCar);
+ // expected output: true
+ ```
 
 **Link(s) to work**:
 
