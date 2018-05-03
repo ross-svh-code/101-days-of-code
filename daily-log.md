@@ -1,5 +1,24 @@
 # 101 Days Of Code - Log
 
+### Day 3: May 3, 2018
+
+**Today's Progress**: Working through a lot of practice problems and trying to learn more built in objects. 
+
+**Thoughts**: Feeling like I understand the basics of the JS language, but am terrible at using it to actually solve problems. 
+
+**Learned** 
+* `array.reduce` - reduce(callback(accumulator, currentValue) {  }, initialValue); *you don't need an initialValue*
+`var array = [0, 1, 2, 3, 4]
+ array.reduce(function(accumulator, currentValue) {
+   return accumulator + currentValue;
+ });`
+* `in` operator - returns true if the specified property is in the object (or index is in the array)
+ `var myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
+  console.log('make" in myCar);
+  // expected output: true`
+
+**Link(s) to work**:
+
 ### Day 2: May 2, 2018
 
 **Today's Progress**: 
