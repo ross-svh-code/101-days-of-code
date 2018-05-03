@@ -38,6 +38,24 @@ array.reduce(function(accumulator, currentValue) {
  
  //new array is change: arr2 = [2, 4, 6, 8, 10]
  ```
+ * `array.filter()` is a method that creates a new array with all elements(index) that pass the test implemented by the provided function.
+ ```js
+const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present'];
+
+let result = words.filter(word => word.length > 6);
+
+// expected result: Array ["exuberant", "destruction", "present"]
+ ```
+ * `array.sort()` sorts an array alphabetically or takes a function to sort numerically from smallest to largest 
+ ```js
+var points = [40, 100, 1, 5, 25, 10];
+points.sort(function(a, b){return a - b});
+ ```
+ * `array.reverse()` reverses an array.
+ * reversed a string using `.split()`, `.reverse()`, `.join()`
+ * factorialize a number using recursion, for loop and while loop. 
+ * Regular Expressions are pretty crazy. Regular expressions are patterns used to match character combinations in strings
+ * Had to use regular expressions to check for palindromes in a string along with `.replace()`, `.toLowerCase()`,  `.split()`, `.reverse()`, `.join()`
 
 **Link(s) to work**:
 
