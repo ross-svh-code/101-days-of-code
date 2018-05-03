@@ -9,16 +9,34 @@
 **Learned** 
 * `array.reduce` - reduce(callback(accumulator, currentValue) {  }, initialValue); *you don't need an initialValue*
 ```js
-var array = [0, 1, 2, 3, 4]
+let array = [0, 1, 2, 3, 4]
 array.reduce(function(accumulator, currentValue) {
   return accumulator + currentValue;
 });
 ```
 * `in` operator - returns true if the specified property is in the object (or index is in the array)
  ```js
- var myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
+ let myCar = {make: 'Mazda', model: 'Maxda 3', year: 2013};
  console.log('make' in myCar);
  // expected output: true
+ ```
+ * `.map` vs `.forEach` - `.map` creates a new array with the results of calling a provided function on every element in the calling array while `forEach` performs a provided function once for each array index.
+ ```js
+ let arr = [1, 2, 3, 4, 5];
+ 
+ //.forEach changes the original array
+ arr.forEach((arrValue, index) => {
+   return arr[index] = arrValue * 2;
+ });
+ 
+ //original array is change: arr = [2, 4, 6, 8, 10]
+ 
+ //.map creates a new array with the changes made
+ let arr2 = arr.map(arrValue => {
+   return arrValue * 2;
+ });
+ 
+ //new array is change: arr2 = [2, 4, 6, 8, 10]
  ```
 
 **Link(s) to work**:
