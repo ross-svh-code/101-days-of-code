@@ -1,5 +1,17 @@
 # 101 Days Of Code - Log
 
+### Day 4: May 4, 2018
+
+**Today's Progress**: Working through the Front End FCC sections to start using what I've learned with JS. 
+
+**Thoughts**: May the 4th be with you! HTML and CSS are a lot easier than JS and I'm happy I started learning JS first. It is making these sections fly by. 
+
+**Learned:**
+* CSS and HTML basics. 
+* Built my tribute page
+
+**Link(s) to work**:
+
 ### Day 3: May 3, 2018
 
 **Today's Progress**: Working through a lot of practice problems and trying to learn more built in objects. 
