@@ -8,6 +8,7 @@
 
 **Learned:**
 * CSS and HTML basics. 
+* Bootstrap and jQuery
 * Built my tribute page
 
 **Link(s) to work**:
