@@ -8,6 +8,10 @@
 
 **Thoughts**: Again, HTML and CSS are quite a bit easier than JS so I am glad I already put in some decent time learning JS. My biggest issue with HTML and CSS currently is organizing the page and getting things to appear where I want them to. Bootstrap makes this decently easy, but I'm trying to avoid bootstrap while learning CSS. 
 
+**Learned**:
+* Intermediate HTML - tables, forms, etc. 
+* Worked through more CSS
+
 **Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/), [FreeCodeCamp](https://freecodecamp.org)
 
 ### Day 4: May 4, 2018
