@@ -1,5 +1,15 @@
 # 101 Days Of Code - Log
 
+### Day 7: May 7, 2018
+
+**Missed days**: I wasn't able to code on either day this weekend due to a wedding and family/friends visiting from out of town. While I am dedicated to this goal, there are some things that take precedence. I decided to keep the day # relative to the number of days since starting the journey and not total number of days coding. That way I can get a better understanding of how much I learn in the full 101 days. 
+
+**Today's Progress**: Decided to combine working through the FCC site with the Web Developer Bootcamp by Cody on Udemy. I tend to learn better from videos than from reading so it will be nice to have in addition to FCC. Today will be focused more on HTML and CSS again similar to day 4. 
+
+**Thoughts**: Again, HTML and CSS are quite a bit easier than JS so I am glad I already put in some decent time learning JS. My biggest issue with HTML and CSS currently is organizing the page and getting things to appear where I want them to. Bootstrap makes this decently easy, but I'm trying to avoid bootstrap while learning CSS. 
+
+**Link(s) to work**:
+
 ### Day 4: May 4, 2018
 
 **Today's Progress**: Working through the Front End FCC sections to start using what I've learned with JS. 
