@@ -1,5 +1,5 @@
 # 101 Days Of Code - Log
-
+ 
 ### Day 7: May 7, 2018
 
 **Missed days**: I wasn't able to code on either day this weekend due to a wedding and family/friends visiting from out of town. While I am dedicated to this goal, there are some things that take precedence. I decided to keep the day # relative to the number of days since starting the journey and not total number of days coding. That way I can get a better understanding of how much I learn in the full 101 days. 
