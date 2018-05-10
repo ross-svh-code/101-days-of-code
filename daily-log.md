@@ -1,5 +1,15 @@
 # 101 Days Of Code - Log
 
+### Day X: May 2, 2018
+
+**Today's Progress**: JS day!
+
+**Thoughts**: 
+
+**Learned**: 
+
+**Link(s) to work**:
+
 ### Day 9: May 9, 2018
 
 **Today's Progress**: Worked through more complex HTML and CSS and Bootstrap. Built more complex pages including a full web landing page with navbar, a better looking photo portfolio with navbar. Both projects were mobile friendly and could be resized. Also built a guessing game where a random number is generated and while you guess it tells you if your guess is too high or too low. We are now into the intro JS part through the Web Developer Bootcamp series which will mostly just be review as I feel I have a decent grasp on the JS basics. 
