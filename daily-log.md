@@ -1,12 +1,12 @@
 # 101 Days Of Code - Log
 
-### Day X: May 2, 2018
+### Day 10: May 10, 2018
 
 **Today's Progress**: JS day! Spent most of the day reviewing JS that I have already learned pretty well. Glad I already have a good grasp on it though, because they rush through a lot of concepts and I would have been pretty lost if this was my first time learning about JS.
 
 **Thoughts**: I will write pseudocode, I will write pseudocode, I will write pseudocode, I will write pseudocode! One thing I am picking up from this course and wish I would get drilled into my brain is to write more pseudocode!
 
-**Learned**: 
+**Learned**: Built a basic todo app which was surprisingly easy
 
 **Link(s) to work**:
 
