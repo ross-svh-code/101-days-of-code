@@ -2,9 +2,9 @@
 
 ### Day X: May 2, 2018
 
-**Today's Progress**: JS day!
+**Today's Progress**: JS day! Spent most of the day reviewing JS that I have already learned pretty well. Glad I already have a good grasp on it though, because they rush through a lot of concepts and I would have been pretty lost if this was my first time learning about JS.
 
-**Thoughts**: 
+**Thoughts**: I will write pseudocode, I will write pseudocode, I will write pseudocode, I will write pseudocode! One thing I am picking up from this course and wish I would get drilled into my brain is to write more pseudocode!
 
 **Learned**: 
 
@@ -12,7 +12,7 @@
 
 ### Day 9: May 9, 2018
 
-**Today's Progress**: Worked through more complex HTML and CSS and Bootstrap. Built more complex pages including a full web landing page with navbar, a better looking photo portfolio with navbar. Both projects were mobile friendly and could be resized. Also built a guessing game where a random number is generated and while you guess it tells you if your guess is too high or too low. We are now into the intro JS part through the Web Developer Bootcamp series which will mostly just be review as I feel I have a decent grasp on the JS basics. 
+**Today's Progress**: Worked through more advanced HTML and CSS and Bootstrap. Built more complex pages including a full web landing page with navbar, a better looking photo portfolio with navbar. Both projects were mobile friendly and could be resized. Also built a guessing game where a random number is generated and while you guess it tells you if your guess is too high or too low. We are now into the intro JS part through the Web Developer Bootcamp series which will mostly just be review as I feel I have a decent grasp on the JS basics. 
 
 **Thoughts**: Again, we are building more things which is very fun. I am starting to get better at looking up documntation or answer to questions I have when running into issues. I think it will be quite important to get good at this as it sounds like it's a common occurance. 
 
