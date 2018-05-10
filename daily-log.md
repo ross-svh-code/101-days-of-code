@@ -1,4 +1,20 @@
 # 101 Days Of Code - Log
+
+### Day 9: May 9, 2018
+
+**Today's Progress**: Worked through more complex HTML and CSS and Bootstrap. Built more complex pages including a full web landing page with navbar, a better looking photo portfolio with navbar. Both projects were mobile friendly and could be resized. Also built a guessing game where a random number is generated and while you guess it tells you if your guess is too high or too low. We are now into the intro JS part through the Web Developer Bootcamp series which will mostly just be review as I feel I have a decent grasp on the JS basics. 
+
+**Thoughts**: Again, we are building more things which is very fun. I am starting to get better at looking up documntation or answer to questions I have when running into issues. I think it will be quite important to get good at this as it sounds like it's a common occurance. 
+
+**Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+ 
+ ### Day 8: May 8, 2018
+
+**Today's Progress**: Worked a lot on CSS and into more Bootstrap. Built a few basic pages with just HTML and CSS that don't do anything including a blog page and a photo portfolio. 
+
+**Thoughts**: Learning HTML and CSS is a lot more fun than JS was so far because of the ability to start building things. The idea of building software and web pages is what got me interested in coding, so it is fun to see that starting to become more of the learning process. 
+
+**Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
  
 ### Day 7: May 7, 2018
 
