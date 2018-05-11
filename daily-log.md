@@ -1,5 +1,13 @@
 # 101 Days Of Code - Log
 
+### Day 11: May 11, 2018
+
+**Today's Progress**: Worked through a lot of DOM manipulation. Learning how to select different parts and change style, text and attributes. 
+
+**Thoughts**: Today was pretty sweet. Learned a lot about manipulating the DOM. I have spend quite a bit of time learning the fundamentals of JS and it is nice to finally start using it to create and change things on web page. Don't get me wrong, reversing a string and capitolizing the first letter of each word is just fantastic, but creating visible results feels a bit more meaningful.  
+
+**Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
 ### Day 10: May 10, 2018
 
 **Today's Progress**: JS day! Spent most of the day reviewing JS that I have already learned pretty well. Glad I already have a good grasp on it though, because they rush through a lot of concepts and I would have been pretty lost if this was my first time learning about JS.
@@ -8,7 +16,7 @@
 
 **Learned**: Built a basic todo app which was surprisingly easy
 
-**Link(s) to work**:
+**Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Day 9: May 9, 2018
 
