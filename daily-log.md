@@ -1,5 +1,16 @@
 # 101 Days Of Code - Log
 
+### Day 14: May 14, 2018
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Missed Two Days:### 
+Out of town with no service or access to computer over the weekend. 
+
 ### Day 11: May 11, 2018
 
 **Today's Progress**: Worked through a lot of DOM manipulation. Learning how to select different parts and change style, text and attributes. 
