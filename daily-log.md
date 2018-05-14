@@ -8,7 +8,7 @@
 
 **Link(s) to work**:
 
-### Missed Two Days:### 
+### Missed Two Days
 Out of town with no service or access to computer over the weekend. 
 
 ### Day 11: May 11, 2018
