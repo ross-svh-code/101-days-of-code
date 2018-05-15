@@ -6,7 +6,7 @@
 
 **Thoughts**: While I don't think I would have been able to build it from scratch on my own, I am pretty happy with my ability to understand the reasoning behind what the instructor was doing. Once he explained how we would be acomplishing a task, I was able to write the code. 
 
-**Link(s) to work**:
+**Link(s) to work**: [Color-Game Github](https://github.com/ross-svh-code/Color-Game)
 
 ### Day 14: May 14, 2018
 
