@@ -1,10 +1,18 @@
 # 101 Days Of Code - Log
 
+### Day 15: May 15, 2018
+
+**Today's Progress**: Built a RGB color guessing game with a follow along video. 
+
+**Thoughts**: While I don't think I would have been able to build it from scratch on my own, I am pretty happy with my ability to understand the reasoning behind what the instructor was doing. Once he explained how we would be acomplishing a task, I was able to write the code. 
+
+**Link(s) to work**:
+
 ### Day 14: May 14, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Worked through more DOM manipulation and did lots of practice
 
-**Thoughts**: 
+**Thoughts**: DOM manipulation is definitely what makes JS fun!
 
 **Link(s) to work**:
 
