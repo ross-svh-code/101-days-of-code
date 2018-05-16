@@ -6,7 +6,7 @@
 
 **Thoughts**: jQuery is pretty useful, though it's hard to tell how useful it still is in todays marketplace. It can't hurt to learn it though! The To-Do app was pretty easy to make. Again, I would wait until Cody mentioned what the task was we were going to complete, then go write my own code first before the follow along.
 
-**Link(s) to work**: [CodePen To-Do app](https://codepen.io/ross-svh-code/full/ZoqRJP/) [GitHub To-Do app](https://github.com/ross-svh-code/A-pretty-todo-list)
+**Link(s) to work**: [CodePen To-Do app](https://codepen.io/ross-svh-code/full/ZoqRJP/), [GitHub To-Do app](https://github.com/ross-svh-code/A-pretty-todo-list)
 
 ### Day 15: May 15, 2018
 
@@ -14,7 +14,7 @@
 
 **Thoughts**: While I don't think I would have been able to build it from scratch on my own, I am pretty happy with my ability to understand the reasoning behind what the instructor was doing. Once he explained how we would be acomplishing a task, I was able to write the code. 
 
-**Link(s) to work**: [Color-Game Github](https://github.com/ross-svh-code/Color-Game) [CodePen - Color Game](https://codepen.io/ross-svh-code/full/JvmMQQ/)
+**Link(s) to work**: [Color-Game Github](https://github.com/ross-svh-code/Color-Game), [CodePen - Color Game](https://codepen.io/ross-svh-code/full/JvmMQQ/)
 
 ### Day 14: May 14, 2018
 
