@@ -1,12 +1,20 @@
 # 101 Days Of Code - Log
 
+### Day 16: May 16, 2018
+
+**Today's Progress**: Worked through jQuery and learned the basic syntax and some of the most common methods. Compared the vanilla JS way vs jQuery. Everything that can be done in jQuery can be done with JS. Focused on selecting and manipulating, then reviewed events. Worked through a Todo List project using jQuery
+
+**Thoughts**: jQuery is pretty useful, though it's hard to tell how useful it still is in todays marketplace. It can't hurt to learn it though!
+
+**Link(s) to work**:
+
 ### Day 15: May 15, 2018
 
 **Today's Progress**: Built a RGB color guessing game with a follow along video. 
 
 **Thoughts**: While I don't think I would have been able to build it from scratch on my own, I am pretty happy with my ability to understand the reasoning behind what the instructor was doing. Once he explained how we would be acomplishing a task, I was able to write the code. 
 
-**Link(s) to work**: [Color-Game Github](https://github.com/ross-svh-code/Color-Game)
+**Link(s) to work**: [Color-Game Github](https://github.com/ross-svh-code/Color-Game) [CodePen - Color Game](https://codepen.io/ross-svh-code/full/JvmMQQ/)
 
 ### Day 14: May 14, 2018
 
