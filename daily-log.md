@@ -4,9 +4,9 @@
 
 **Today's Progress**: Worked through jQuery and learned the basic syntax and some of the most common methods. Compared the vanilla JS way vs jQuery. Everything that can be done in jQuery can be done with JS. Focused on selecting and manipulating, then reviewed events. Worked through a Todo List project using jQuery
 
-**Thoughts**: jQuery is pretty useful, though it's hard to tell how useful it still is in todays marketplace. It can't hurt to learn it though!
+**Thoughts**: jQuery is pretty useful, though it's hard to tell how useful it still is in todays marketplace. It can't hurt to learn it though! The To-Do app was pretty easy to make. Again, I would wait until Cody mentioned what the task was we were going to complete, then go write my own code first before the follow along.
 
-**Link(s) to work**:
+**Link(s) to work**: [CodePen To-Do app](https://codepen.io/ross-svh-code/full/ZoqRJP/) [GitHub To-Do app](https://github.com/ross-svh-code/A-pretty-todo-list)
 
 ### Day 15: May 15, 2018
 
@@ -22,7 +22,7 @@
 
 **Thoughts**: DOM manipulation is definitely what makes JS fun!
 
-**Link(s) to work**:
+**Link(s) to work**: [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### Missed Two Days
 Out of town with no service or access to computer over the weekend. 
