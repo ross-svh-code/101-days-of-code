@@ -1,5 +1,13 @@
 # 101 Days Of Code - Log
 
+### Day 17: May 17, 2018
+
+**Today's Progress**: Built a Patatap clone which involved using new libraries (paper.js and howler.js)
+
+**Thoughts**: It was interesting and a little confusing at first. Reading documentation is obviously a very important skill that will take a while to get used to. 
+
+**Link(s) to work**: [CodePen Patatap Clone Link](https://codepen.io/ross-svh-code/full/JverjV/)
+
 ### Day 16: May 16, 2018
 
 **Today's Progress**: Worked through jQuery and learned the basic syntax and some of the most common methods. Compared the vanilla JS way vs jQuery. Everything that can be done in jQuery can be done with JS. Focused on selecting and manipulating, then reviewed events. Worked through a Todo List project using jQuery
