@@ -1,5 +1,13 @@
 # 101 Days Of Code - Log
 
+### Day 18: May 18, 2018
+
+**Today's Progress**: Continueing [JavaScript30](https://javascript30.com/) for practice. Built the analog clock
+
+**Thoughts**: Analog clock: did some cool things with changing CSS based on JS, mostly using transform. Wrote a function which runs every second and moves the second, minute and hour hand according to the current time.
+
+**Link(s) to work**: [CodePen Analog Clock](https://codepen.io/ross-svh-code/full/bMOBKo/)
+
 ### Day 17: May 17, 2018
 
 **Today's Progress**: Built a Patatap clone which involved using new libraries (paper.js and howler.js) Since that was the end of the front-end part of "The Web Developer Bootcamp" on Udemy I figured it was time to get a lot of practice in before moving onto any back-end. I started the [JavaScript30](https://javascript30.com/) which seems very interesting and I really like that it is all in vanilla JS, and CSS. I built the drumkit and did my best to rebuild the HTML and CSS first by looking at the page. After that, I watched the video through and then tried to build it. 
