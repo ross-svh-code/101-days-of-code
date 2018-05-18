@@ -2,11 +2,11 @@
 
 ### Day 18: May 18, 2018
 
-**Today's Progress**: Continueing [JavaScript30](https://javascript30.com/) for practice. Built the analog clock
+**Today's Progress**: Continueing [JavaScript30](https://javascript30.com/) for practice. Built the analog clock, a site where the customer can change CSS with input sliders using CSS variables.
 
-**Thoughts**: Analog clock: did some cool things with changing CSS based on JS, mostly using transform. Wrote a function which runs every second and moves the second, minute and hour hand according to the current time.
+**Thoughts**: Analog clock: did some cool things with changing CSS based on JS, mostly using transform. Wrote a function which runs every second and moves the second, minute and hour hand according to the current time. Messing around with CSS variables was pretty cool. The JS used near the end was pretty fancy and I doubt I would have been able to figure this out on my own. Most of my experience with JS so far has been with ES5 as well and he uses ES6. It's not too difficult to pick up, but there are differences. 
 
-**Link(s) to work**: [CodePen Analog Clock](https://codepen.io/ross-svh-code/full/bMOBKo/)
+**Link(s) to work**: [CodePen Analog Clock](https://codepen.io/ross-svh-code/full/bMOBKo/), (CodePen CSS Variables}(https://codepen.io/ross-svh-code/full/odJWqN/)
 
 ### Day 17: May 17, 2018
 
