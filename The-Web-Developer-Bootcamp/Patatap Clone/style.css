@@ -1,0 +1,13 @@
+canvas {
+	width: 100%;
+	height: 100%;
+	background: #1F1C2C;
+	background: -webkit-linear-gradient(to right, #928DAB, #1F1C2C);
+	background: linear-gradient(to right, #928DAB, #1F1C2C);
+
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+}
