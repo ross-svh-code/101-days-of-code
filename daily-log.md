@@ -1,5 +1,32 @@
 # 101 Days Of Code - Log
 
+### Day 23: May 23, 2018
+
+**Today's Progress**: Solved the 2nd part of week1, continueds problem set. 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 22: May 22, 2018
+
+**Today's Progress**: Worked through week 1, continued and the problem sets from CS50. 
+
+**Thoughts**: This course it definitely harder than following along with a teached like in Udemy, JavaScript30, etc. It makes you think and find answers to problems on your own which I like. It is also helping me implement writing pseudocode. It is a little strange that they don't have a solution for you to compare you problem sets too once you are done, as I feel my answers work, but might not be the best way to go about completing the task. 
+
+**Link(s) to work**:
+
+### Day 21: May 21, 2018
+
+**Today's Progress**: Started CS50 and worked through the first weeks lectures and problem sets. Learning the basics of C
+
+**Thoughts**: I find it strange that everyone keeps suggesting CS50 while you are learning JavaScript and basic web development because I figured it would be best to learn one language at a time. CS50 starts off with learning C and then Python and then later gets into JS. I am listening to the power of the internet though and taking their advice to start CS50 early. 
+
+**Link(s) to work**:
+
+### Helped a friend move over the weekend and wasn't able to get in any coding. Missed days 19 and 20. 
+
 ### Day 18: May 18, 2018
 
 **Today's Progress**: Continueing [JavaScript30](https://javascript30.com/) for practice. Built the analog clock, a site where the customer can change CSS with input sliders using CSS variables.
