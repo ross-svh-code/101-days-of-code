@@ -1,10 +1,18 @@
 # 101 Days Of Code - Log
 
+### Day 24: May 24, 2018
+
+**Today's Progress**: Completed Week 2 problem set from CS50. 
+
+**Thoughts**: Week 2 problem set was kinda annoying. It made no sense that we had to go through an find all the notes from happy birthday when that has absolutely nothing to do with coding which just got me in a bad headspace to start with. The first two functions we had to write were quite easy and didn't take long, besides gettig stuck on trying to convert a certain index of a string to an int which took way longer than it should. The 3rd part took me a good while to figure out, but as always, once the code was written it made sense and seems like it should have been easy. Got some practice with `switch` which I haven't used much so that was nice. 
+
+**Link(s) to work**:
+
 ### Day 23: May 23, 2018
 
-**Today's Progress**: Solved the 2nd part of week1, continueds problem set. 
+**Today's Progress**: Solved the 2nd part of week 1, continueds problem set. Watched week 2's lecture and did some reading on C
 
-**Thoughts**: 
+**Thoughts**: Part two was decently easy after having completed part 1 from the previous day. Week 2's lecture was interesting, though it seems that the problem set has almost nothing to do with the lecture. 
 
 **Link(s) to work**:
 
