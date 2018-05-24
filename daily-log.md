@@ -2,9 +2,11 @@
 
 ### Day 24: May 24, 2018
 
-**Today's Progress**: Completed Week 2 problem set from CS50. 
+**Today's Progress**: Completed Week 2 problem set from CS50. Completed Array Cardio from JavaScript30
 
 **Thoughts**: Week 2 problem set was kinda annoying. It made no sense that we had to go through an find all the notes from happy birthday when that has absolutely nothing to do with coding which just got me in a bad headspace to start with. The first two functions we had to write were quite easy and didn't take long, besides gettig stuck on trying to convert a certain index of a string to an int which took way longer than it should. The 3rd part took me a good while to figure out, but as always, once the code was written it made sense and seems like it should have been easy. Got some practice with `switch` which I haven't used much so that was nice. 
+
+The Array cardio was pretty fun. Some of it went over my head, but I picked up a lot and it will definitely be one I will repeat a few times until I really grasp them all. 
 
 **Link(s) to work**:
 
