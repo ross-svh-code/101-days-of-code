@@ -1,5 +1,23 @@
 # 101 Days Of Code - Log
 
+### Day X: May 2, 2018
+
+**Today's Progress**: Refresehd on CS50 course and rewatched some of the lectures. 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 31: May 31, 2018
+
+**Today's Progress**: Refreshed on materials after being away for a week
+
+**Thoughts**: Still remember most things, need to get back into the flow of it again though
+
+**Link(s) to work**:
+
+# Trip to Yosemite without service or laptop. 7 days away from coding
+
 ### Day 24: May 24, 2018
 
 **Today's Progress**: Completed Week 2 problem set from CS50. Completed Array Cardio from JavaScript30
