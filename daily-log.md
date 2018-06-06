@@ -1,6 +1,14 @@
 # 101 Days Of Code - Log
 
-### Day X: May 2, 2018
+### Day 37: May 6, 2018
+
+**Today's Progress**: Haven't been updating this log as much as I should. I have spend this week working on the week 3 of CS50. I am going through it slowly and also reworking through the JS30 problems I already solved. It is a bit of a weird limbo feeling being back from a trip and only having this week before we leave again for 9 days. 
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+### Day 33: May 2, 2018
 
 **Today's Progress**: Refresehd on CS50 course and rewatched some of the lectures. 
 
